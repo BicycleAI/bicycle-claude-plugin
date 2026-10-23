@@ -1,0 +1,14 @@
+{
+  "name": "bicycle-ai",
+  "description": "Bicycle AI connector and analyst skills for Claude.",
+  "owner": {
+    "name": "Bicycle"
+  },
+  "plugins": [
+    {
+      "name": "bicycle-ai",
+      "source": "./",
+      "description": "Explore your Bicycle data and answer business questions through Studio's query tools."
+    }
+  ]
+}
