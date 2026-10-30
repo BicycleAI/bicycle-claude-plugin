@@ -1,7 +1,7 @@
 {
   "name": "bicycle-ai",
   "displayName": "Bicycle AI",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "license": "MIT",
   "description": "Explore your Bicycle data and answer business questions through Studio's query tools.",
   "homepage": "https://app.bicycle.ai",
@@ -10,5 +10,6 @@
     "name": "Bicycle"
   },
   "icon": "./assets/icon.png",
-  "privacyPolicyUrl": "https://bicycle.ai/legal-privacy"
+  "privacyPolicyUrl": "https://bicycle.ai/legal-privacy",
+  "documentationUrl": "https://docs.bicycle.ai/docs/claude/"
 }
